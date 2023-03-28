@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motivation App</string>
+
+    <string name="title_label_value">Motivator</string>
+    <string name="start_button_value">Get Motivation</string>
+
+    <!--MainActivity Strings -->
+    <string name="title2_label_value">Motivation Cards</string>
+</resources>

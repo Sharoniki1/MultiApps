@@ -1,0 +1,11 @@
+<resources>
+
+    <!--HomeActivity strings -->
+    <string name="title_label_value">title</string>
+    <string name="start_button_value">start</string>
+
+    <!--GameActivity Strings -->
+    <string name="title2_label_value">game title</string>
+    <string name="subtitle_label_value">instruction</string>
+
+</resources>
